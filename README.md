@@ -17,4 +17,6 @@ Notes:
 
 I believe the fitment to the cones wasn't perfect either due to the method of finding the contours and edges which didn't create whole boundaries around the cones or due to the other brights spots in the image that I could not remove without also removing the cones from the mask. 
 
+This is answer.png:
+
 ![answer](https://github.com/user-attachments/assets/e162c404-d5f3-4f96-a9ea-fdff92d4c849)
